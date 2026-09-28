@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Vamsi Krishna Kakani</h1>
+<h1 align="center">Hi 👋, I'm Vamsi Krishna Kakani</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <p align="center">
@@ -21,9 +21,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/vamsi-krishna-analyst-capgemini/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+   </a>
+  <a href="https://wa.me/918897643414" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
   </a>
 </p>
 
