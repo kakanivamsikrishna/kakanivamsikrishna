@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=230&section=header&text=Vamsi%20Krishna%20Kakani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation&descSize=20&descAlignY=58" alt="header banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=230&section=header&text=Vamsi%20Krishna%20Kakani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20Cloud%20and%20Automation&descSize=20&descAlignY=58" alt="header banner" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Vamsi+Krishna;DevOps+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Automating+everything%2C+one+pipeline+at+a+time;Building+scalable+%26+reliable+cloud+infrastructure" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Vamsi+Krishna;DevOps+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Automating+everything%2C+one+pipeline+at+a+time;Building+scalable+and+reliable+cloud+infrastructure" alt="Typing SVG"/>
   </a>
 </p>
 
