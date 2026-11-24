@@ -53,17 +53,6 @@ I'm a **DevOps Engineer** who loves turning manual, repetitive work into clean, 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Kubernetes-network-policy-lab**](https://github.com/kakanivamsikrishna/Kubernetes-network-policy-lab) | Hands-on NetworkPolicy lab: test real Ingress/Egress traffic between Swiggy, Zomato and Client pods | `Kubernetes` `nginx` |
-| [**docker-node-test**](https://github.com/kakanivamsikrishna/docker-node-test) | NodeJS app built with an optimized multi-stage Dockerfile | `Docker` `Node.js` |
-| [**docker-e2e-app**](https://github.com/kakanivamsikrishna/docker-e2e-app) | Deploying an end-to-end web app using Docker concepts | `Docker` |
-| [**Jenkins-CICD-Repo**](https://github.com/kakanivamsikrishna/Jenkins-CICD-Repo) | CI/CD pipeline practice with Jenkins | `Jenkins` `Git` |
-
----
-
 ## 🗺️ Learning Roadmap
 
 | Step | Skill | Status |
@@ -72,9 +61,9 @@ I'm a **DevOps Engineer** who loves turning manual, repetitive work into clean, 
 | 2 | Git & GitHub | ✅ Done |
 | 3 | Docker | ✅ Done |
 | 4 | Jenkins (CI/CD) | ✅ Done |
-| 5 | AWS | 🚧 In progress |
-| 6 | Terraform | 🚧 In progress |
-| 7 | Kubernetes | 🚧 In progress |
+| 5 | AWS | ✅ Done |
+| 6 | Terraform | ✅ Done |
+| 7 | Kubernetes | ✅ Done |
 
 ---
 
