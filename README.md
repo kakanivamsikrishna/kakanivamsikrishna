@@ -1,127 +1,201 @@
-<!-- ============================ HERO ============================ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=6,11,20&text=Vamsi%20Krishna%20Kakani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Automation&descSize=20&descAlignY=58&animation=fadeIn" alt="Vamsi Krishna Kakani" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=40&lines=I+automate+what+others+repeat;CI%2FCD+%E2%86%92+Containers+%E2%86%92+Cloud+%E2%86%92+Kubernetes;Shipping+reliable+infrastructure%2C+one+pipeline+at+a+time" alt="Typing animation"/>
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/vamsi-krishna-analyst-capgemini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:kvamsikrishna789@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/kakanivamsikrishna?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=for-the-badge" alt="Open to collaboration"/>
-
-</div>
-
-<br/>
-
-<!-- ============================ ABOUT ============================ -->
-## 👋 Hello, World
-
-I'm a **DevOps Engineer from India 🇮🇳** who believes that anything done twice deserves a pipeline.
-I design clean, repeatable delivery systems that take code from a commit to production **safely, quickly and without drama**.
-
-```yaml
-engineer:
-  name: Vamsi Krishna Kakani
-  role: DevOps Engineer
-  focus: [CI/CD, Containers, Cloud, Infrastructure as Code, Orchestration]
-  philosophy: "If I do it twice, I automate it"
-  open_to: DevOps and Cloud collaboration
-  ask_me_about: [Jenkins, Docker, AWS, Terraform, Kubernetes]
-```
-
-<br/>
-
-<!-- ============================ STACK ============================ -->
-## 🧰 Tech Stack
+ 
+<!-- ===================================================== -->
+<!--                  HERO SECTION                         -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,jenkins,aws,terraform,kubernetes,nginx&theme=dark&perline=10" alt="Tech stack"/>
-
-</div>
-
-| Layer | Tools | Level |
-|:--|:--|:--:|
-| 🐧 **Operating System** | Linux, Bash scripting | ✅ |
-| 🔀 **Version Control** | Git, GitHub | ✅ |
-| 📦 **Containers** | Docker, multi-stage builds | ✅ |
-| ⚙️ **CI/CD** | Jenkins pipelines | ✅ |
-| ☁️ **Cloud** | AWS | ✅ |
-| 🏗️ **Infrastructure as Code** | Terraform | ✅ |
-| ☸️ **Orchestration** | Kubernetes, NetworkPolicies | ✅ |
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0F172A,50:0F766E,100:0EA5E9&text=Vamsi%20Krishna%20Kakani&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=DEVOPS%20ENGINEER%20%7C%20CLOUD%20%7C%20AUTOMATION&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Vamsi Krishna Kakani"/>
 
 <br/>
 
-<!-- ============================ ROADMAP ============================ -->
-## 🗺️ My DevOps Journey
-
-Every stage of the roadmap is complete. 🎉
-
-```mermaid
-flowchart LR
-    A["🐧 Linux"]:::done --> B["🔀 Git"]:::done --> C["📦 Docker"]:::done --> D["⚙️ Jenkins"]:::done --> E["☁️ AWS"]:::done --> F["🏗️ Terraform"]:::done --> G["☸️ Kubernetes"]:::done
-
-    classDef done fill:#238636,stroke:#2ea043,stroke-width:2px,color:#ffffff;
-```
-
-| Step | Skill | Status |
-|:--:|:--|:--:|
-| 1 | Linux | ✅ Done |
-| 2 | Git & GitHub | ✅ Done |
-| 3 | Docker | ✅ Done |
-| 4 | Jenkins (CI/CD) | ✅ Done |
-| 5 | AWS | ✅ Done |
-| 6 | Terraform | ✅ Done |
-| 7 | Kubernetes | ✅ Done |
-
-<br/>
-
-<!-- ============================ HOW I WORK ============================ -->
-## 🔁 How I Think About Delivery
-
-```mermaid
-flowchart LR
-    P["💻 Commit"] --> Q["🔨 Build"] --> R["🧪 Test"] --> S["📦 Containerize"] --> T["🏗️ Provision"] --> U["🚀 Deploy"] --> V["📈 Improve"]
-    V -.->|feedback loop| P
-```
-
-- **Automate first** — manual steps are bugs waiting to happen.
-- **Everything as code** — pipelines, infrastructure and configuration live in Git.
-- **Small, safe, frequent releases** — fast feedback beats big-bang deployments.
-- **Secure by default** — least privilege and isolation, from IAM to Kubernetes NetworkPolicies.
-
-<br/>
-
-<!-- ============================ ACTIVITY ============================ -->
-## 📊 Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kakanivamsikrishna&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
-
-</div>
-
-<br/>
-
-<!-- ============================ CONNECT ============================ -->
-## 🤝 Let's Build Something
-
-Looking for a collaborator on **DevOps and Cloud** projects, or just want to talk pipelines? I'd love to hear from you.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vamsi-krishna-analyst-capgemini/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:kvamsikrishna789@gmail.com"><img src="https://img.shields.io/badge/Send%20me-an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Building+reliable+infrastructure+through+automation;Turning+manual+deployments+into+CI%2FCD+pipelines;Docker+%7C+Jenkins+%7C+AWS+%7C+Terraform+%7C+Kubernetes;Automate.+Deploy.+Monitor.+Improve." alt="Typing SVG"/>
 
 <br/><br/>
 
-<sub><i>"Automate the boring stuff, so you can focus on building what matters."</i></sub>
+<a href="https://www.linkedin.com/in/vamsi-krishna-analyst-capgemini/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:kvamsikrishna789@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/kakanivamsikrishna?tab=repositories">
+<img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="footer" width="100%"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kakanivamsikrishna&label=PROFILE%20VIEWS&color=0e7490&style=flat-square" alt="Profile views"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                  ABOUT ME                             -->
+<!-- ===================================================== -->
+
+## 👨‍💻 About Me
+
+I'm **Vamsi Krishna Kakani**, a DevOps Engineer from India 🇮🇳 passionate about building reliable, scalable and automated infrastructure.
+
+I enjoy working at the intersection of **Development, Operations and Cloud Engineering**, transforming manual processes into automated workflows.
+
+My focus is on creating efficient CI/CD pipelines, containerized applications, cloud infrastructure and deployment automation.
+
+```yaml
+name: Vamsi Krishna Kakani
+role: DevOps Engineer
+location: India 🇮🇳
+
+technical_focus:
+  - Linux & Shell Scripting
+  - CI/CD Automation
+  - Docker & Containerization
+  - AWS Cloud Infrastructure
+  - Terraform & Infrastructure as Code
+  - Kubernetes & Container Orchestration
+  - Git & GitHub
+
+currently_interested_in:
+  - Cloud Native Technologies
+  - DevOps Best Practices
+  - Infrastructure Automation
+  - Scalable Deployment Architectures
+
+engineering_mindset: "Automate everything. Simplify anything."
+```
+
+---
+
+## ⚙️ Technology Ecosystem
+
+<div align="center">
+
+### Operating Systems & Scripting
+
+<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
+
+### Version Control & CI/CD
+
+<img src="https://skillicons.dev/icons?i=git,github,jenkins&theme=dark" />
+
+### Containers & Orchestration
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx&theme=dark" />
+
+### Cloud & Infrastructure as Code
+
+<img src="https://skillicons.dev/icons?i=aws,terraform&theme=dark" />
+
+</div>
+
+---
+
+## 🏗️ What I Work With
+
+| Domain | Technologies |
+|:---|:---|
+| 🐧 Operating Systems | Linux |
+| 💻 Scripting | Bash |
+| 🔀 Version Control | Git, GitHub |
+| ⚙️ CI/CD | Jenkins |
+| 📦 Containerization | Docker |
+| ☁️ Cloud Computing | AWS |
+| 🏗️ Infrastructure as Code | Terraform |
+| ☸️ Orchestration | Kubernetes |
+| 🌐 Web & Networking | Nginx, NetworkPolicies |
+
+---
+
+## 🔄 My DevOps Workflow
+
+<div align="center">
+
+```mermaid
+flowchart TD
+    A["💻 Source Code"] --> B["🔀 Git & GitHub"]
+    B --> C["⚙️ Jenkins CI/CD"]
+    C --> D["🧪 Build & Test"]
+    D --> E["🐳 Docker Build"]
+    E --> F["📦 Container Registry"]
+    F --> G["☁️ AWS Infrastructure"]
+    G --> H["🏗️ Terraform"]
+    H --> I["☸️ Kubernetes Deployment"]
+    I --> J["📊 Monitor & Improve"]
+
+    J -.-> B
+
+    style A fill:#172554,stroke:#38BDF8,color:#fff
+    style C fill:#172554,stroke:#38BDF8,color:#fff
+    style E fill:#172554,stroke:#38BDF8,color:#fff
+    style G fill:#172554,stroke:#38BDF8,color:#fff
+    style I fill:#172554,stroke:#38BDF8,color:#fff
+    style J fill:#064E3B,stroke:#34D399,color:#fff
+```
+
+</div>
+
+My engineering principles:
+
+- **Automation First:** Eliminate repetitive manual operations.
+- **Infrastructure as Code:** Keep infrastructure version-controlled and reproducible.
+- **Continuous Delivery:** Build reliable and repeatable deployment pipelines.
+- **Security First:** Follow least-privilege access and secure configuration practices.
+- **Continuous Improvement:** Monitor, troubleshoot and optimize infrastructure.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kakanivamsikrishna&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kakanivamsikrishna&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakanivamsikrishna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🚀 What I'm Building Towards
+
+I believe DevOps is more than knowing tools. It's about understanding how systems work together.
+
+My areas of continued exploration include:
+
+- Designing end-to-end CI/CD pipelines.
+- Building containerized application deployment workflows.
+- Automating AWS infrastructure with Terraform.
+- Managing Kubernetes workloads and networking.
+- Improving deployment reliability and infrastructure security.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with engineers, exploring cloud-native technologies and collaborating on interesting DevOps projects.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vamsi-krishna-analyst-capgemini/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kvamsikrishna789@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**"Great infrastructure is invisible. Great automation makes it repeatable."**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:0EA5E9&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
