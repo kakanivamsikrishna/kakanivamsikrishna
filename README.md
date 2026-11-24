@@ -1,36 +1,38 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=230&section=header&text=Vamsi%20Krishna%20Kakani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20Cloud%20and%20Automation&descSize=20&descAlignY=58" alt="header banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=230&section=header&text=Vamsi%20Krishna%20Kakani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation&descSize=20&descAlignY=58" alt="header banner" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Vamsi+Krishna;Passionate+DevOps+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Automating+everything%2C+one+pipeline+at+a+time;Building+scalable+%26+reliable+cloud+infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Vamsi+Krishna;DevOps+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Automating+everything%2C+one+pipeline+at+a+time;Building+scalable+%26+reliable+cloud+infrastructure" alt="Typing SVG"/>
   </a>
 </p>
 
+<!-- Static badges only: no API calls, so they can never show an error -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kakanivamsikrishna&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/kakanivamsikrishna?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=for-the-badge" alt="open to collaboration" />
+  <a href="https://github.com/kakanivamsikrishna?tab=followers"><img src="https://img.shields.io/badge/GitHub-kakanivamsikrishna-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/vamsi-krishna-analyst-capgemini/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kvamsikrishna789@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=for-the-badge" alt="Open to collaboration"/>
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="coding" width="380" />
+  <img src="https://komarev.com/ghpvc/?username=kakanivamsikrishna&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **DevOps Engineer** who loves turning manual, repetitive work into clean, automated, and reliable systems. I enjoy bridging the gap between development and operations with CI/CD, containers, and infrastructure as code.
+I'm a **DevOps Engineer** who loves turning manual, repetitive work into clean, automated and reliable systems. I bridge the gap between development and operations with **CI/CD, containers and Infrastructure as Code**.
 
 | | |
 |---|---|
-| 🔭 **Currently working on** | DevOps projects |
-| 🌱 **Currently learning** | Kubernetes · Terraform · AWS |
+| 🔭 **Currently working on** | Hands-on DevOps projects: CI/CD, Docker and Kubernetes labs |
+| 🌱 **Currently learning** | AWS · Terraform · Kubernetes |
 | 👯 **Looking to collaborate on** | DevOps & Cloud projects |
-| 💬 **Ask me about** | DevOps & AWS |
+| 💬 **Ask me about** | DevOps, Jenkins, Docker, AWS |
 | ⚡ **Fun fact** | If I do it twice, I automate it |
 
 ---
@@ -38,62 +40,67 @@ I'm a **DevOps Engineer** who loves turning manual, repetitive work into clean, 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github,linux,bash&theme=dark&perline=9" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github,linux,bash&theme=dark&perline=9" alt="tech stack"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Kubernetes-network-policy-lab**](https://github.com/kakanivamsikrishna/Kubernetes-network-policy-lab) | Hands-on NetworkPolicy lab: test real Ingress/Egress traffic between Swiggy, Zomato and Client pods | `Kubernetes` `nginx` |
+| [**docker-node-test**](https://github.com/kakanivamsikrishna/docker-node-test) | NodeJS app built with an optimized multi-stage Dockerfile | `Docker` `Node.js` |
+| [**docker-e2e-app**](https://github.com/kakanivamsikrishna/docker-e2e-app) | Deploying an end-to-end web app using Docker concepts | `Docker` |
+| [**Jenkins-CICD-Repo**](https://github.com/kakanivamsikrishna/Jenkins-CICD-Repo) | CI/CD pipeline practice with Jenkins | `Jenkins` `Git` |
 
 ---
 
 ## 🗺️ Learning Roadmap
 
-```text
- Linux ─▶ Git ─▶ Docker ─▶ Jenkins (CI/CD) ─▶ AWS ─▶ Terraform ─▶ Kubernetes
-   ✅       ✅       ✅           ✅              🚧        🚧           🚧
-```
+| Step | Skill | Status |
+|:---:|---|---|
+| 1 | Linux | ✅ Done |
+| 2 | Git & GitHub | ✅ Done |
+| 3 | Docker | ✅ Done |
+| 4 | Jenkins (CI/CD) | ✅ Done |
+| 5 | AWS | 🚧 In progress |
+| 6 | Terraform | 🚧 In progress |
+| 7 | Kubernetes | 🚧 In progress |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kakanivamsikrishna&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakanivamsikrishna&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="top languages" />
+  <img src="https://streak-stats.demolab.com?user=kakanivamsikrishna&theme=tokyonight&hide_border=true&border_radius=12" alt="streak"/>
 </p>
 
+<!-- Contribution snake: generated by your own GitHub Action (see .github/workflows/snake.yml) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kakanivamsikrishna&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kakanivamsikrishna&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kakanivamsikrishna/kakanivamsikrishna/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kakanivamsikrishna/kakanivamsikrishna/output/github-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/kakanivamsikrishna/kakanivamsikrishna/output/github-snake.svg"/>
+  </picture>
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vamsi-krishna-analyst-capgemini/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kvamsikrishna789@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/kakanivamsikrishna" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+I'm always happy to talk DevOps, cloud and automation. Feel free to reach out or open an issue on any of my repos.
 
 <p align="center"><i>"Automate the boring stuff, so you can focus on building what matters."</i></p>
 
-<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" alt="footer" width="100%"/>
 </p>
