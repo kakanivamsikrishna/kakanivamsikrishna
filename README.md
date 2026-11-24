@@ -1,11 +1,39 @@
  
-<!-- ===================================================== -->
-<!--                  HERO SECTION                         -->
-<!-- ===================================================== -->
+ <!-- ===================== PREMIUM DEVOPS HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0F172A,50:0F766E,100:0EA5E9&text=Vamsi%20Krishna%20Kakani&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=DEVOPS%20ENGINEER%20%7C%20CLOUD%20%7C%20AUTOMATION&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Vamsi Krishna Kakani"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,40:0F766E,100:0284C7&text=Vamsi%20Krishna%20Kakani&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DEVOPS%20%26%20CLOUD%20ENGINEER&descSize=20&descAlignY=57&animation=fadeIn" width="100%" alt="Vamsi Krishna Kakani - DevOps and Cloud Engineer"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=Automating+Infrastructure.+Simplifying+Complexity.;CI%2FCD+%7C+AWS+%7C+Docker+%7C+Kubernetes;Infrastructure+as+Code+%7C+Cloud+Automation;Building+Reliable+and+Scalable+Systems." alt="Professional DevOps introduction"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/vamsi-krishna-analyst-capgemini/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:kvamsikrishna789@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/kakanivamsikrishna?tab=repositories">
+<img src="https://img.shields.io/badge/GITHUB-PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-DEVOPS%20%26%20CLOUD-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-238636?style=flat-square"/>
+
+<br/><br/>
+
+**Building reliable infrastructure. Automating everything. Delivering continuously.**
+
+</div>
+
+<!-- =========================== END HEADER =========================== -->
 
 <br/>
 
