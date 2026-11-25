@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,12,14,18,24&height=250&section=header&text=Vamsi%20Krishna%20Kakani&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20Cloud%20and%20Automation&descSize=20&descAlignY=58&stroke=ffffff&strokeWidth=1" alt="header banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=230&section=header&text=Vamsi%20Krishna%20Kakani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%7C%20Cloud%20and%20Automation&descSize=20&descAlignY=58" alt="header banner" width="100%" />
 </p>
 
 <p align="center">
@@ -95,5 +95,5 @@ I'm a **DevOps Engineer** who loves turning manual, repetitive work into clean, 
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14,12,11,6&height=140&section=footer&text=Thanks%20for%20visiting%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlignY=70" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" alt="footer" width="100%" />
 </p>
