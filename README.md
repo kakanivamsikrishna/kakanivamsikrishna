@@ -55,7 +55,7 @@ I'm a **DevOps Engineer** who loves turning manual, repetitive work into clean, 
 
 ```text
  Linux ─▶ Git ─▶ Docker ─▶ Jenkins (CI/CD) ─▶ AWS ─▶ Terraform ─▶ Kubernetes
-   ✅       ✅       ✅           ✅              ✅        ✅           ✅
+   ✅       ✅       ✅           ✅           ✅        ✅           ✅
 ```
 
 ---
